@@ -14,7 +14,6 @@
 | Harshita Sharma | MCO23378 |
 | Diksha | MCO23376 |
 
-**Project ID:** MCO23378  
 **Project Category:** Multimodal and Generative AI Applications  
 **Project Number:** 32
 
