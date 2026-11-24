@@ -7,12 +7,12 @@ Time estimates are for one person.
 | Priority | Task | Where | Time |
 |---|---|---|---|
 | Done | Whisper evaluation (tiny/base/small, GPU and CPU) | notebook 01 | - |
-| Must | Run backend tests A, B, C and note the 10-minute transcription time | notebook 03 | 40 min |
-| Must | Deploy to a Hugging Face Space and test a real upload on the live URL | notebook 03 (last cell) | 30 min + build |
+| Must | Run backend tests A, B, C and note the 10-minute transcription time | notebook 03 | 60 min |
+| Must | Deploy to a Hugging Face Space and test a real upload on the live URL | notebook 03 (last cell) | 40 min + build |
 | Must | Create the GitHub repo, upload files, add Diksha as collaborator, commit from your own account | github.com | 20 min |
-| Must | Write the transcription part of the report (use the README table) | docs/REPORT_OUTLINE.md | 45 min |
+| Must | Write the transcription part of the report (use the README table) | docs/REPORT_OUTLINE.md | 55 min |
 | Should | Optional: add `small` to `CPU_MODELS` and re-run notebook 01 to see CPU speed | notebook 01 | 20 min |
-| Should | Record the demo video (screen recording of a full run) | - | 30 min |
+| Should | Record the demo video (screen recording of a full run) | - | 50 min |
 
 ## Diksha (generation, frontend, evaluation)
 | Priority | Task | Where | Time |
