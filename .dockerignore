@@ -1,0 +1,9 @@
+.git
+.env
+uploads
+__pycache__
+notebooks
+eval
+*.wav
+*.mp4
+*.mp3
